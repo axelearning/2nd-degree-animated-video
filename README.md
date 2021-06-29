@@ -3,7 +3,7 @@
 à travers ce projet, j'ai créer une vidéo sur les polynômes du second degré uniquement avec le langage de programmation Python. Pour ce faire, j'ai utiliser [Manim](https://github.com/3b1b/manim), une librairie qui génère des animations mathématiques.
 <br>
 <p align="center">
-<img src="BLANK" alt="Vidéo Manim" width="600">
+<img src="assets/gif/my_vid.gif" alt="Vidéo Manim" width="600">
 </p>
 <br> 
 
