@@ -19,7 +19,7 @@ Dans le répertoire ci-dessus vous trouverez le code qui exploite les classes et
 
 - Meilleure compréhension de la programmation orientée object et de son implémentation en Python
 - Perfectionnement de l'utilisation de python et de ses fonctionnalités avancés: `filter()`, `map()`, `isinstance()`, `itertools` ...
-- Tirer partie d'un IDE, afin de rapidement se balader et de comprendre le fonctionnement d'une librairie 
+- Tirer partie d'un IDE, afin de se balader rapidement et de comprendre le fonctionnement d'une librairie 
 
 <br>
 
