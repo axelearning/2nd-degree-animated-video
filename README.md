@@ -3,7 +3,7 @@ Through this project, I created a video about quadratic function using Python an
 <br>
 <h3 align="center">
 <span>🎬 </span>
-<a href="https://youtu.be/a985OKs55fM">see the youtube video</a>
+<a href="https://youtu.be/a985OKs55fM">see the video</a>
 </h3>
 <br> 
 <p align="center">
